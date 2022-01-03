@@ -1,2 +1,5 @@
 # thunderbite-test-1
-This repo contains thunderbite technical test
+
+## This repository contains the solution to thunderbite 1st test
+
+
